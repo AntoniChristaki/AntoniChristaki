@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antonis Christaki
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Back End Developing
-- 💞️ I’m looking to collaborate on anyone want to colloborate with
+- 💞️ I’m looking to collaborate with anyone want to colloborate 
 
 <!---
 AntoniChristaki/AntoniChristaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
